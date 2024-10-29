@@ -1,0 +1,131 @@
+/*- CONTACT US -*/
+/*----------------------------------*/
+
+#con1 {
+    background-image: url(imgs/aidan.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+#navbarcon {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+}
+
+button {
+    background-color: #10c9c3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #Header1 {
+    font-size: 42px;
+    font-family: 'Monserrat';
+    text-align: left;
+
+  }
+#Sub2 {
+    font-size: 20px;
+    font-family: 'Nunito+Sans';
+    text-align: left;
+
+}
+
+/*- ABOUT US -*/
+/*----------------------------------*/
+
+#bd1 {
+  font-family: 'Monserrat';
+  font-size: 30px;
+}
+
+.bd2 {
+  font-size: 15px;
+  font-weight: 1px;
+}
+
+#styl1 {
+  text-align: center;
+  font-size: 'Nunito+Sans';
+  padding: 40px 0px 40px 0px;
+}
+
+.sec1{
+  text-align: center;
+  padding: 20%;
+}
+
+/*- PROFESSIONAL SKILLS -*/
+/*----------------------------------*/
+
+#con4 {
+  background-color: #F5F5F5;
+  padding-left: 50px;
+}
+
+.prog1 {
+  font-size: 25px;
+  font-weight: 490;
+}
+
+.prog2 {
+  font-size: 13px;
+  font-weight: 500;
+  padding-bottom: 8px;
+}
+
+.progress {
+  border: 6px solid #F5F5F5;
+  width: 700px;
+  height: 10px;
+}
+
+.sec3 {
+  background-image: url(imgs/stil-sHGyGynyD5Y-unsplash.png);
+  height: 60vh;
+}
+
+/*- ICON BLUE BAR SECTION -*/
+/*----------------------------------*/
+
+#con5 {
+  background-color: #10C9C3;
+}
+
+.icon {
+  padding: 2px 5px 5px 0px;
+}
+
+.sec4 {
+  padding: 50px 0px 50px 0px;
+  color: #F5F5F5;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/*- GRID ROW 1 -*/
+/*----------------------------------*/
+
+.uno1 {
+  max-width: 100%;
+  height: auto;
+}
+
+/*- GRID ROW 2 -*/
+/*----------------------------------*/
+
+.sec10 {
+
+}
+
+/*- SERVICES -*/
+
+.
+
+/*----------------------------------*/
